@@ -1,0 +1,11 @@
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\bin\Debug\SQLRunner.exe.config
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\bin\Debug\SQLRunner.exe
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\bin\Debug\SQLRunner.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\bin\Debug\MetroFramework.Design.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\bin\Debug\MetroFramework.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\bin\Debug\MetroFramework.Fonts.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\obj\Debug\SQLRunner.Form1.resources
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\obj\Debug\SQLRunner.Properties.Resources.resources
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\obj\Debug\SQLRunner.csproj.GenerateResource.Cache
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\obj\Debug\SQLRunner.exe
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\SQLRunner\obj\Debug\SQLRunner.pdb

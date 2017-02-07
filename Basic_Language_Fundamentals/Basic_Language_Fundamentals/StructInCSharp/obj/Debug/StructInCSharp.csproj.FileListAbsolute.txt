@@ -1,0 +1,10 @@
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\bin\Debug\StructInCSharp.exe.config
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\bin\Debug\StructInCSharp.exe
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\bin\Debug\StructInCSharp.pdb
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\obj\Debug\StructInCSharp.exe
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\obj\Debug\StructInCSharp.pdb
+G:\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\bin\Debug\StructInCSharp.exe.config
+G:\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\bin\Debug\StructInCSharp.exe
+G:\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\bin\Debug\StructInCSharp.pdb
+G:\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\obj\Debug\StructInCSharp.exe
+G:\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\StructInCSharp\obj\Debug\StructInCSharp.pdb
