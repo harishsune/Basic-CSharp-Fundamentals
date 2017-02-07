@@ -1,0 +1,13 @@
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\StaticTest.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\StaticTest.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\StaticDemo1.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\StaticDemo2.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\MainStatic.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\StaticDemo2.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\StaticDemo1.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\bin\Debug\MainStatic.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\obj\Debug\StaticTest.csprojResolveAssemblyReference.cache
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\obj\Debug\StaticTest.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo1\StaticTest\obj\Debug\StaticTest.pdb

@@ -1,0 +1,5 @@
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\AllAboutStatic\AllAboutStatic\bin\Release\StaticClassAndStaticVariables.exe.config
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\AllAboutStatic\AllAboutStatic\bin\Release\StaticClassAndStaticVariables.exe
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\AllAboutStatic\AllAboutStatic\bin\Release\StaticClassAndStaticVariables.pdb
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\AllAboutStatic\AllAboutStatic\obj\Release\StaticClassAndStaticVariables.exe
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\AllAboutStatic\AllAboutStatic\obj\Release\StaticClassAndStaticVariables.pdb

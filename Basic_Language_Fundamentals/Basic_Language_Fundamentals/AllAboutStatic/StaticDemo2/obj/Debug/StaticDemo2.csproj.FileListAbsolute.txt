@@ -1,0 +1,7 @@
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\bin\Debug\StaticDemo2.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\bin\Debug\StaticDemo2.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\bin\Debug\MainStatic.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\bin\Debug\MainStatic.pdb
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\obj\Debug\StaticDemo2.csprojResolveAssemblyReference.cache
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\obj\Debug\StaticDemo2.dll
+G:\My Training\C#_Training_Harish_Sune\Basic_Language_Fundamentals\Basic_Language_Fundamentals\AllAboutStatic\StaticDemo2\obj\Debug\StaticDemo2.pdb

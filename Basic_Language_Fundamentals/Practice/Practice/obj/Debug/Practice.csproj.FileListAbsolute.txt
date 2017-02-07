@@ -1,0 +1,6 @@
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Practice\Practice\bin\Debug\Practice.exe.config
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Practice\Practice\bin\Debug\Practice.exe
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Practice\Practice\bin\Debug\Practice.pdb
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Practice\Practice\obj\Debug\Practice.exe
+G:\C#_Training_By_Harish_Sune\Basic_Language_Fundamentals\Practice\Practice\obj\Debug\Practice.pdb
